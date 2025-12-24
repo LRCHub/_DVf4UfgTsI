@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "O Holy Night",
+  "base_artist": "Martina McBride",
+  "createdAt": "2025-12-24T17:26:09.947333Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "O Holy Night",
+      "artist": "Patti LaBelle",
+      "has_synced": false,
+      "path": "select/01_O_Holy_Night_Patti_LaBelle.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "O Holy Night",
+      "artist": "Lindsey Stirling",
+      "has_synced": true,
+      "path": "select/02_O_Holy_Night_Lindsey_Stirling.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "O Holy Night",
+      "artist": "Katie Melua",
+      "has_synced": true,
+      "path": "select/03_O_Holy_Night_Katie_Melua.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "O Holy Night",
+      "artist": "The Puppini Sisters",
+      "has_synced": false,
+      "path": "select/04_O_Holy_Night_The_Puppini_Sisters.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "O Holy Night (1999 - Remastered)",
+      "artist": "Nat King Cole",
+      "has_synced": false,
+      "path": "select/05_O_Holy_Night_(1999_-_Remastered)_Nat_King_Cole.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "O Holy Night (1999 Remastered)",
+      "artist": "Nat King Cole",
+      "has_synced": false,
+      "path": "select/06_O_Holy_Night_(1999_Remastered)_Nat_King_Cole.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "O Holy Night - Live in Berlin",
+      "artist": "Katie Melua",
+      "has_synced": false,
+      "path": "select/07_O_Holy_Night_-_Live_in_Berlin_Katie_Melua.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "O Holy Night",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/08_O_Holy_Night_Weezer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "O Holy Night",
+      "artist": "Sheryl Crow",
+      "has_synced": true,
+      "path": "select/09_O_Holy_Night_Sheryl_Crow.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "O Holy Night",
+      "artist": "Susan Boyle",
+      "has_synced": true,
+      "path": "select/10_O_Holy_Night_Susan_Boyle.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "O Holy Night",
+      "artist": "Train",
+      "has_synced": true,
+      "path": "select/11_O_Holy_Night_Train.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "O Holy Night",
+      "artist": "Delta Goodrem",
+      "has_synced": true,
+      "path": "select/12_O_Holy_Night_Delta_Goodrem.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cantique de Nöel (O Holy Night)",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/13_Cantique_de_Nöel_(O_Holy_Night)_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "O' Holy Night",
+      "artist": "Destiny's Child feat. Michelle Williams",
+      "has_synced": false,
+      "path": "select/14_O'_Holy_Night_Destiny's_Child_feat._Michelle_Williams.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "O Holy Night",
+      "artist": "SWV",
+      "has_synced": true,
+      "path": "select/15_O_Holy_Night_SWV.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "O' Holy Night",
+      "artist": "Destiny's Child",
+      "has_synced": true,
+      "path": "select/16_O'_Holy_Night_Destiny's_Child.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "O Holy Night (feat. Young Aled)",
+      "artist": "Aled Jones",
+      "has_synced": false,
+      "path": "select/17_O_Holy_Night_(feat._Young_Aled)_Aled_Jones.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "O Holy Night",
+      "artist": "Chris Isaak",
+      "has_synced": true,
+      "path": "select/18_O_Holy_Night_Chris_Isaak.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "O Holy Night",
+      "artist": "Martina McBride",
+      "has_synced": false,
+      "path": "select/pl_01_O_Holy_Night_Martina_McBride.txt"
+    }
+  ]
+}
